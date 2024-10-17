@@ -1,0 +1,59 @@
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    color: blue
+}
+.sqare{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.sare{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.img{
+    width: 100;
+    height: 100;
+}
+.re{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.e{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.zero{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 100%;
+}
+.ero{
+    width: 25px;
+    height: 25px;
+    background-color: blue;
+    border-radius: 100%;
+}
+.ro{
+    width: 400px;
+    height: 100px;
+    background-color: blue;
+}
+.o{
+    width: 400px;
+    height: 100px;
+    background-color: black;
+    border-radius: 100%;
+    text-align: center;
+    color: white;
+}
